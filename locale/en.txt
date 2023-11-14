@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = APPARTMENT 03
+
+## Media
+
+### Title
+panorama_C002821B_CBAB_14E1_41C0_C93A00DE5A9C.label = 02
+panorama_C022184C_CC9B_5B58_41E7_A2A1CF7033CB.label = corridor 01
+panorama_C244F1B2_CBAB_1723_41E2_CD887E8A1E48.label = o1
+panorama_C244F2A3_CBAB_F522_41C6_309C267EE1D1.label = bed room
+panorama_C61490AA_CC9B_6BDB_41B8_5B5115222012.label = master bed
+panorama_C616BC33_CC9B_5AC8_41CF_7475C396002B.label = corridor2
